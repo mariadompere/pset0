@@ -2,7 +2,7 @@ Welcome to the course!
 
 In this course, we will be using [RStudio](https://www.rstudio.com/) to interact with R, and write our annotated R code using [Markdown](http://rmarkdown.rstudio.com).
 
-__RStudio Server__ is an open-source integrated development environment (IDE) that you can run on the cloud. The main advantage of RStudio with respect to other graphical interfaces, such as R GUI (the default), is that it integrates a powerful built-in text editor as well as other tools for plotting, debugging, and workspace management. The Server version of RStudio, which we are now running in an Amazon Web Services instance, will allow all of us to connect to the same server and run the code remotely.
+__RStudio Desktop__ is an open-source integrated development environment (IDE) that you can run on the cloud. The main advantage of RStudio with respect to other graphical interfaces, such as R GUI (the default), is that it integrates a powerful built-in text editor as well as other tools for plotting, debugging, and workspace management. 
 
 __Markdown__ is a simple formatting syntax to generate HTML or PDF documents. In combination with R, it will generate a document that includes the comments, the R code, and the output of running such code.
 
